@@ -9,7 +9,7 @@
 ## Authors
 
 - Catalina Zuluaga Echavarria
-- Jeronimo Gutierrez
+- Jeronimo Gutierrez Gutierrez
 ---
 
 ## Project Description
