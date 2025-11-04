@@ -82,8 +82,5 @@ No additional external libraries are required; the project uses only Python’s 
 
    and an additional message indicating the specific error detected by the parser.
 
----
 
-
-```
 ```
